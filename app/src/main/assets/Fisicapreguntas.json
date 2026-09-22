@@ -1,0 +1,84 @@
+{
+  "Fisicapreguntas": [
+    {
+      "preguntas": "Física: ¿Cuál es la fórmula para calcular la velocidad?",
+      "respuesta1": "A) v = d / t",
+      "respuesta2": "B) v = t / d",
+      "respuesta3": "C) v = d + t",
+      "respuesta4": "D) v = d * t",
+      "correcto": "A) v = d / t"
+    },
+    {
+      "preguntas": "Física: ¿Cuál es la unidad de medida de la fuerza en el Sistema Internacional de Unidades?",
+      "respuesta1": "A) Newton",
+      "respuesta2": "B) Watt",
+      "respuesta3": "C) Voltio",
+      "respuesta4": "D) Ohm",
+      "correcto": "A) Newton"
+    },
+    {
+      "preguntas": "Física: ¿Cuál es la primera ley de Newton?",
+      "respuesta1": "A) Ley de la acción y la reacción",
+      "respuesta2": "B) Ley de la inercia",
+      "respuesta3": "C) Ley de la aceleración",
+      "respuesta4": "D) Ley de la gravitación universal",
+      "correcto": "B) Ley de la inercia"
+    },
+    {
+      "preguntas": "Física: ¿Cuál es la unidad de medida de la energía en el Sistema Internacional de Unidades?",
+      "respuesta1": "A) Joule",
+      "respuesta2": "B) Vatio",
+      "respuesta3": "C) Pascal",
+      "respuesta4": "D) Newton",
+      "correcto": "A) Joule"
+    },
+    {
+      "preguntas": "Física: ¿Cuál es la definición de trabajo en física?",
+      "respuesta1": "A) Desplazamiento de un objeto en la misma dirección que la fuerza aplicada",
+      "respuesta2": "B) Fuerza aplicada a una distancia determinada",
+      "respuesta3": "C) Energía transferida cuando se aplica una fuerza a un objeto",
+      "respuesta4": "D) Cambio de energía cinética de un objeto",
+      "correcto": "C) Energía transferida cuando se aplica una fuerza a un objeto"
+    },
+    {
+      "preguntas": "Física: ¿Cuál es la definición de potencia en física?",
+      "respuesta1": "A) Fuerza aplicada a una distancia determinada",
+      "respuesta2": "B) Cambio de energía cinética de un objeto",
+      "respuesta3": "C) Energía transferida cuando se aplica una fuerza a un objeto",
+      "respuesta4": "D) Trabajo realizado por unidad de tiempo",
+      "correcto": "D) Trabajo realizado por unidad de tiempo"
+    },
+    {
+      "preguntas": "Física: ¿Qué ley establece que la presión aplicada a un fluido en un recipiente cerrado se transmite sin pérdida a través del fluido?",
+      "respuesta1": "A) Ley de Ohm",
+      "respuesta2": "B) Ley de Hooke",
+      "respuesta3": "C) Ley de Pascal",
+      "respuesta4": "D) Ley de Coulomb",
+      "correcto": "C) Ley de Pascal"
+    },
+    {
+      "preguntas": "Física: ¿Cuál es la fórmula para calcular la densidad de un objeto?",
+      "respuesta1": "A) Densidad = Masa / Volumen",
+      "respuesta2": "B) Densidad = Volumen / Masa",
+      "respuesta3": "C) Densidad = Masa * Volumen",
+      "respuesta4": "D) Densidad = Masa - Volumen",
+      "correcto": "A) Densidad = Masa / Volumen"
+    },
+    {
+      "preguntas": "Física: ¿Cuál es la ley que establece que la fuerza entre dos cargas eléctricas es directamente proporcional al producto de las magnitudes de las cargas e inversamente proporcional al cuadrado de la distancia entre ellas?",
+      "respuesta1": "A) Ley de la acción y la reacción",
+      "respuesta2": "B) Ley de Gauss",
+      "respuesta3": "C) Ley de Coulomb",
+      "respuesta4": "D) Ley de Ohm",
+      "correcto": "C) Ley de Coulomb"
+    },
+    {
+      "preguntas": "Física: ¿Cuál es la definición de impulso en física?",
+      "respuesta1": "A) Cambio de energía cinética de un objeto",
+      "respuesta2": "B) Cambio de la cantidad de movimiento de un objeto",
+      "respuesta3": "C) Fuerza aplicada durante un periodo de tiempo",
+      "respuesta4": "D) Cambio en la velocidad de un objeto",
+      "correcto": "B) Cambio de la cantidad de movimiento de un objeto"
+    }
+  ]
+}

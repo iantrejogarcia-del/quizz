@@ -1,0 +1,84 @@
+{
+  "Geografiapreguntas": [
+    {
+      "preguntas": "Geografía: ¿Cuál es el río más largo del mundo?",
+      "respuesta1": "A) Nilo",
+      "respuesta2": "B) Amazonas",
+      "respuesta3": "C) Yangtsé",
+      "respuesta4": "D) Misisipi",
+      "correcto": "B) Amazonas"
+    },
+    {
+      "preguntas": "Geografía: ¿Cuál es el lago más grande del mundo en superficie?",
+      "respuesta1": "A) Lago Superior",
+      "respuesta2": "B) Lago Baikal",
+      "respuesta3": "C) Lago Victoria",
+      "respuesta4": "D) Lago Titicaca",
+      "correcto": "C) Lago Victoria"
+    },
+    {
+      "preguntas": "Geografía: ¿Cuál es el país más grande del mundo en términos de área terrestre?",
+      "respuesta1": "A) China",
+      "respuesta2": "B) Rusia",
+      "respuesta3": "C) Canadá",
+      "respuesta4": "D) Estados Unidos",
+      "correcto": "B) Rusia"
+    },
+    {
+      "preguntas": "Geografía: ¿Cuál es la capital de Australia?",
+      "respuesta1": "A) Sídney",
+      "respuesta2": "B) Canberra",
+      "respuesta3": "C) Melbourne",
+      "respuesta4": "D) Brisbane",
+      "correcto": "B) Canberra"
+    },
+    {
+      "preguntas": "Geografía: ¿Cuál es la montaña más alta del mundo?",
+      "respuesta1": "A) K2",
+      "respuesta2": "B) Everest",
+      "respuesta3": "C) Kanchenjunga",
+      "respuesta4": "D) Lhotse",
+      "correcto": "B) Everest"
+    },
+    {
+      "preguntas": "Geografía: ¿Cuál es el desierto más grande del mundo?",
+      "respuesta1": "A) Desierto del Sahara",
+      "respuesta2": "B) Desierto de Gobi",
+      "respuesta3": "C) Desierto de Atacama",
+      "respuesta4": "D) Desierto de Arabia",
+      "correcto": "A) Desierto del Sahara"
+    },
+    {
+      "preguntas": "Geografía: ¿Cuál es el país con más islas del mundo?",
+      "respuesta1": "A) Indonesia",
+      "respuesta2": "B) Filipinas",
+      "respuesta3": "C) Japón",
+      "respuesta4": "D) Suecia",
+      "correcto": "A) Indonesia"
+    },
+    {
+      "preguntas": "Geografía: ¿Cuál es el país más pequeño del mundo?",
+      "respuesta1": "A) Vaticano",
+      "respuesta2": "B) Mónaco",
+      "respuesta3": "C) San Marino",
+      "respuesta4": "D) Nauru",
+      "correcto": "A) Vaticano"
+    },
+    {
+      "preguntas": "Geografía: ¿Cuál es el punto más bajo de la Tierra?",
+      "respuesta1": "A) Valle de la Muerte",
+      "respuesta2": "B) Mar Muerto",
+      "respuesta3": "C) Fosa de las Marianas",
+      "respuesta4": "D) Valle de la Gran Grieta",
+      "correcto": "B) Mar Muerto"
+    },
+    {
+      "preguntas": "Geografía: ¿Cuál es el país más poblado del mundo?",
+      "respuesta1": "A) China",
+      "respuesta2": "B) India",
+      "respuesta3": "C) Estados Unidos",
+      "respuesta4": "D) Indonesia",
+      "correcto": "A) China"
+    }
+  ]
+}

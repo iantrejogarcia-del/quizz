@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Terminos_con"
+    android:background="@mipmap/fondop">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="273dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="67dp"
+        android:layout_marginTop="74dp"
+        android:layout_marginEnd="67dp"
+        android:text="Terminos y condiciones"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="303dp"
+        android:layout_height="485dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="124dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginBottom="122dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Términos y Condiciones de Uso para QuizMaterias."
+                android:textColor="@color/white"
+                android:gravity="center"
+                android:textSize="20dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="19dp" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1. Aceptación de los Términos."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Al descargar, instalar y/o utilizar QuizMaterias, usted acepta estar sujeto a estos Términos y Condiciones de Uso. Si no está de acuerdo con estos términos, no debe utilizar la aplicación."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="19dp" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2. Descripción del Servicio."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="QuizMaterias es una plataforma educativa diseñada para mejorar el desempeño académico de los estudiantes mediante la provisión de preguntas y respuestas sobre diversas materias. El uso de la aplicación incluye acceso a contenido educativo, la posibilidad de crear y responder preguntas, y participar en actividades de aprendizaje."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="19dp" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3. Registro de Usuario y Cuentas."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Para utilizar ciertos servicios de uizMaterias, puede ser necesario crear una cuenta. Usted es responsable de mantener la confidencialidad de su información de inicio de sesión y de todas las actividades que ocurran bajo su cuenta. Proporcionar información falsa o engañosa puede resultar en la terminación de su cuenta."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic"/>
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="19dp" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="4. Uso Permitido."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Usted se compromete a utilizar QuizMaterias únicamente con fines educativos y no para actividades ilegales, inapropiadas o dañinas. Está prohibido:Publicar contenido ofensivo, difamatorio, o que infrinja derechos de terceros.Intentar hackear, desactivar o interferir con el funcionamiento de la aplicación.Utilizar la aplicación para fines comerciales sin autorización previa por escrito."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic"/>
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="19dp" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. Propiedad Intelectual ."
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Todo el contenido, diseño, gráficos, y funcionalidad de QuizMaterias son propiedad de Meteriasoficial2024 y están protegidos por leyes de propiedad intelectual. Usted no adquiere ningún derecho de propiedad sobre el contenido accediendo a la aplicación.
+"
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="19dp" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="6. Privacidad y Datos Personales."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Su privacidad es importante para nosotros. La recopilación y uso de sus datos personales están reguladas por nuestra Política de Privacidad, que forma parte integral de estos Términos y Condiciones. Por favor, revísela para entender cómo manejamos su información."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="19dp" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="7. Limitación de Responsabilidad."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Materiasoficial2024 no será responsable por cualquier daño directo, indirecto, incidental, especial, o consecuente que resulte del uso o la incapacidad de uso de QuizMaterias. El servicio se proporciona tal cual y según disponibilidad."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="19dp" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="8. Modificaciones de los Términos. "
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Materiasoficial2024 se reserva el derecho de modificar estos Términos y Condiciones en cualquier momento. Cualquier cambio será efectivo inmediatamente después de su publicación en la aplicación. Es su responsabilidad revisar periódicamente estos términos para estar al tanto de las actualizaciones."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="19dp" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="9. Terminación del Servicio."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Materiasoficial2024 puede, a su sola discreción, suspender o terminar su acceso a QuizMaterias en cualquier momento, sin previo aviso, por cualquier motivo, incluyendo pero no limitado a la violación de estos Términos y Condiciones."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="19dp" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="10. Ley Aplicable y Jurisdicción."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Estos Términos y Condiciones se regirán e interpretarán de acuerdo con las leyes de México. Cualquier disputa que surja en relación con estos términos estará sujeta a la jurisdicción exclusiva de los tribunales de Ciudad de México, México."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="19dp" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="11. Contacto."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Si tiene alguna pregunta sobre estos Términos y Condiciones, puede contactarnos en engeralmateria@gmail.com o en  Calle Florencia 38, Colonia Juárez, Alcaldía Cuauhtémoc, C.P. 06600, Ciudad de México."
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+        </LinearLayout>
+    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/imageButton77"
+        android:layout_width="46dp"
+        android:layout_height="45dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="24dp"
+        android:background="@color/black"
+        app:srcCompat="@drawable/baseline_arrow_back_24" />
+</RelativeLayout>

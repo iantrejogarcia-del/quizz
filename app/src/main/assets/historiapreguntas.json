@@ -1,0 +1,84 @@
+{
+  "Historiapreguntas": [
+    {
+      "preguntas": "Historia: ¿Cuál es el nombre del primer presidente de los Estados Unidos?",
+      "respuesta1": "A) George Washington",
+      "respuesta2": "B) Abraham Lincoln",
+      "respuesta3": "C) Thomas Jefferson",
+      "respuesta4": "D) John Adams",
+      "correcto": "A) George Washington"
+    },
+    {
+      "preguntas": "Historia: ¿En qué año ocurrió la Revolución Francesa?",
+      "respuesta1": "A) 1789",
+      "respuesta2": "B) 1776",
+      "respuesta3": "C) 1812",
+      "respuesta4": "D) 1492",
+      "correcto": "A) 1789"
+    },
+    {
+      "preguntas": "Historia: ¿Cuál fue el período conocido como la Edad Media?",
+      "respuesta1": "A) Entre el siglo XV y el XVII",
+      "respuesta2": "B) Entre el siglo V y el XV",
+      "respuesta3": "C) Entre el siglo XVIII y el XIX",
+      "respuesta4": "D) Entre el siglo II y el V",
+      "correcto": "B) Entre el siglo V y el XV"
+    },
+    {
+      "preguntas": "Historia: ¿Quién fue el líder de la Revolución Rusa de 1917?",
+      "respuesta1": "A) Vladimir Lenin",
+      "respuesta2": "B) Joseph Stalin",
+      "respuesta3": "C) Leon Trotsky",
+      "respuesta4": "D) Nicholas II",
+      "correcto": "A) Vladimir Lenin"
+    },
+    {
+      "preguntas": "Historia: ¿En qué año terminó la Segunda Guerra Mundial?",
+      "respuesta1": "A) 1945",
+      "respuesta2": "B) 1939",
+      "respuesta3": "C) 1918",
+      "respuesta4": "D) 1941",
+      "correcto": "A) 1945"
+    },
+    {
+      "preguntas": "Historia: ¿Cuál fue la primera civilización de la historia?",
+      "respuesta1": "A) Civilización Egipcia",
+      "respuesta2": "B) Civilización Mesopotámica",
+      "respuesta3": "C) Civilización China",
+      "respuesta4": "D) Civilización Griega",
+      "correcto": "B) Civilización Mesopotámica"
+    },
+    {
+      "preguntas": "Historia: ¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+      "respuesta1": "A) 1776",
+      "respuesta2": "B) 1789",
+      "respuesta3": "C) 1812",
+      "respuesta4": "D) 1492",
+      "correcto": "A) 1776"
+    },
+    {
+      "preguntas": "Historia: ¿Quién fue el emperador romano que construyó el Coliseo?",
+      "respuesta1": "A) Julio César",
+      "respuesta2": "B) Augusto",
+      "respuesta3": "C) Nerón",
+      "respuesta4": "D) Trajano",
+      "correcto": "C) Nerón"
+    },
+    {
+      "preguntas": "Historia: ¿Qué evento marcó el inicio de la Edad Moderna?",
+      "respuesta1": "A) Descubrimiento de América",
+      "respuesta2": "B) Caída del Imperio Romano",
+      "respuesta3": "C) Revolución Industrial",
+      "respuesta4": "D) Revolución Francesa",
+      "correcto": "A) Descubrimiento de América"
+    },
+    {
+      "preguntas": "Historia: ¿Cuál fue el nombre del primer hombre en viajar al espacio?",
+      "respuesta1": "A) Yuri Gagarin",
+      "respuesta2": "B) Neil Armstrong",
+      "respuesta3": "C) Buzz Aldrin",
+      "respuesta4": "D) Alan Shepard",
+      "correcto": "A) Yuri Gagarin"
+    }
+  ]
+}
